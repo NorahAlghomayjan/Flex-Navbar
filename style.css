@@ -24,10 +24,7 @@ a:link {
     color: white;
 }
 
-li {
-    margin: 20px;
-
-}
+li {margin: 20px;}
 .btn {
     background-color: #4c91af;
     border: 1px solid black;
