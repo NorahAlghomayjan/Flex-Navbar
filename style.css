@@ -1,0 +1,38 @@
+* { font-family: Roboto;}
+div {
+    height: 60px;
+    background-color: rgb(46, 42, 42);
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    flex-grow: 1;
+    margin: 20px;
+    color: white;
+    font-style: oblique;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+}
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    margin: 20px;
+
+}
+.btn {
+    background-color: #4c91af;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+    padding: 6px;
+    box-shadow: 3px 3px black;
+}
